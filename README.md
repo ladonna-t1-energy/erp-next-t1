@@ -3,8 +3,6 @@
 Date: 2026-04-09
 
 ## Scope and limitation
-
-- Attempted to clone and inspect `https://github.com/frappe/erpnext.git`, but outbound GitHub access is blocked in this environment (`CONNECT tunnel failed, response 403`).
 - This review therefore analyzes the code currently present in this repository and provides architecture guidance for both this repo's Lambda workflow and an ERPNext deployment target.
 
 ## Critical cybersecurity concerns in this repository
