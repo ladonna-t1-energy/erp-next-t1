@@ -1,4 +1,4 @@
-# Security + AWS Architecture Review
+# ERPNext Security + AWS Architecture Review
 
 Date: 2026-04-09
 
